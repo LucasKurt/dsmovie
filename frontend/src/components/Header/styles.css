@@ -1,0 +1,29 @@
+header {
+  background-color: var(--color-primary);
+  height: 3.75rem;
+  display: flex;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+}
+
+nav h1 {
+  margin: 0;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+nav div {
+  display: flex;
+  align-items: center;
+}
+
+nav div p {
+  margin: 0 0 0 0.625rem;
+  font-size: 0.75rem;
+}
